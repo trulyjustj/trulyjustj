@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @trulyjustj ✨
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning CSS.
+- 💞️ I’m looking to collaborate on Websites.
+- 📫 How to reach me, Email: jesus.cruzmata@outlook.com
